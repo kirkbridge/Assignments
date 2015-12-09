@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=balance\ interestRate
+comment0.target=Savings(double,\ double)
+comment0.text=\r\nSavings\ -\ Constructor\ for\ the\ Savings\ class.\ It\ sets\ the\ beginning\ balance\ and\ \r\n\tthe\ starting\ annual\ interest\ rate.\r\n\r\n\ @param\ balance\ -\ the\ intial\ balance\ of\ the\ account\r\n\ @param\ rate\ -\ the\ annual\ rate\ of\ interest\ earned\ by\ the\ account\ \r\n
+comment1.params=
+comment1.target=double\ getBalance()
+comment1.text=\r\n\ getBalance\ -\ returns\ the\ balance\ of\ the\ account\r\n\r\n\ @return\ -\ The\ balance\ of\ savings\ account\r\n
+comment2.params=
+comment2.target=double\ getInterestRate()
+comment2.text=\r\n\ getInterestRate\ -\ get\ the\ current\ interest\ rate\ of\ the\ account\r\n\r\n\ return\ -\ the\ interest\ rate\r\n\r\n
+comment3.params=rate
+comment3.target=void\ setInterestRate(double)
+comment3.text=\r\nsetInterestRate\ -\ set\ the\ interest\ rate\ to\ the\ new\ value\ provided\r\n\r\n\ @param\ -\ new\ interest\ rate\r\n
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment4.text=\r\n\ withdraw\ amount\ -\ subtract\ that\ amount\ specified\ from\ the\ account\r\n\r\n\ @param\ amount\ -\ the\ amount\ to\ be\ withdrawn\ from\ the\ account\r\n
+comment5.params=amount
+comment5.target=void\ deposit(double)
+comment5.text=\r\n\ deposit\ -\ add\ the\ amount\ to\ the\ balance\r\n\r\n\ @param\ amount\ -\ the\ amount\ to\ be\ add\ to\ the\ balance\r\n
+comment6.params=
+comment6.target=double\ calculateInterest()
+comment6.text=\r\n\ calculateInterest\ -\ calculates\ the\ interest\ earned\ for\ the\ month.\ If\ balance\ is\ zero\ or\ less\r\n\ \t\tthen\ the\ interest\ earned\ is\ zero.\r\n\r\n\ @return\ -\ the\ amount\ interest\ earned\r\n
+numComments=7
