@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ main\ -Runs\ the\ program,\ asks\ user\ for\ a\ date\ and\ then\ formats\ the\ date\ for\ them.\r\n\r\n\ @param\ String[]\ args\ -\ \ Uses\ arguments\ provide\ by\ user\ in\ the\ command\ line.\ This\ is\ no\ utilized\ in\ this\ \r\n\ program.\r\n
+numComments=1
